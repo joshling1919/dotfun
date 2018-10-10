@@ -4892,9 +4892,6 @@ main {
   overflow: hidden;
 }
 .site-brand,
-.site-logo {
-  margin-bottom: 6px;
-}
 .site-brand {
   color: #000;
   font-family: Cabin, Helvetica, Arial, sans-serif;
@@ -4908,12 +4905,7 @@ main {
 .site-brand:hover {
   text-decoration: none;
 }
-.nav-footer {
-  position: absolute;
-  bottom: 0;
-  padding-bottom: 30px;
-}
-.nav-footer a,
+a,
 .nav > li > a {
   color: #000;
 }
@@ -4922,10 +4914,6 @@ main {
 }
 .nav > li > a:hover {
   color: #ff6360;
-}
-.nav-footer-social-buttons {
-  margin-bottom: 0;
-  margin-left: -10px;
 }
 .navbar-default {
   margin-bottom: 0;
